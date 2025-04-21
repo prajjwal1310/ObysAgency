@@ -633,6 +633,11 @@ body{
     font-size: 1vw;
     font-weight: 500;
 }
+#footer>h2{
+    font-size: 0.8vw;
+    text-align: center;
+    margin-top: 3vh;
+}
 ._canvas_container{
     z-index: 999999 !important;
     pointer-events: none;
@@ -967,6 +972,11 @@ body{
     #footer>h5{
         font-size: 3vw;
         font-weight: 500;
+    }
+    #footer>h2{
+        font-size: 0.8vw;
+        text-align: center;
+        margin-top: 3vh;
     }
 }
 
@@ -1372,5 +1382,10 @@ body{
         font-size: 4vw;
         font-weight: 500;
         margin-bottom: 4vh 0;
+    }
+    #footer>h2{
+        font-size: 2.5vw;
+        text-align: center;
+        margin: 3vh 0;
     }
 }
